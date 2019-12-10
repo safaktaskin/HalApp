@@ -1,0 +1,1 @@
+Sebze Adı: roka |  Sebzenin fiyatı: 1 |  Sebzenin kilosu: 1Sebze Adı: biber |  Sebzenin fiyatı: 2 |  Sebzenin kilosu: 5Sebze Adı: domates |  Sebzenin fiyatı: 4 |  Sebzenin kilosu: 3
